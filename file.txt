@@ -1,2 +1,0 @@
-line of love
-line of c++ v17
